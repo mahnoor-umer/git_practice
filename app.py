@@ -4,5 +4,5 @@ def add(a,b):
 def subtract(a,b):
     return a-b
 
-def multiply(a,b):
+def mult(a,b):
     return a*b
